@@ -12,4 +12,4 @@ It install mocha and puppeteer and asserts that the Google Puppeteer repo is the
 
 The result should look as follows:
 
-[![asciicast](https://asciinema.org/a/0SpyfRaqMBjorNc7WWeRQfLhs.png)](https://asciinema.org/a/0SpyfRaqMBjorNc7WWeRQfLhs)
+[![asciicast](https://asciinema.org/a/f3F570OMM20PnEFvSbttfFbTu.png)](https://asciinema.org/a/f3F570OMM20PnEFvSbttfFbTu)
