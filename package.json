@@ -1,0 +1,28 @@
+{
+  "name": "browser-checks-starter",
+  "version": "1.0.0",
+  "description": "Get started with writing browser checks for Checkly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/checkly/browser-checks-starter.git"
+  },
+  "keywords": [
+    "checkly",
+    "puppeteer",
+    "mocha"
+  ],
+  "author": "Tim Nolet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/checkly/browser-checks-starter/issues"
+  },
+  "homepage": "https://github.com/checkly/browser-checks-starter#readme",
+  "dependencies": {
+    "mocha": "^5.0.4",
+    "puppeteer": "^1.2.0"
+  }
+}
