@@ -9,7 +9,3 @@ cd browser-checks-starter
 npm install
 mocha check_duckduckgo.js
 ``` 
-
-The result should look as follows:
-
-[![asciicast](https://asciinema.org/a/f3F570OMM20PnEFvSbttfFbTu.png)](https://asciinema.org/a/f3F570OMM20PnEFvSbttfFbTu)
